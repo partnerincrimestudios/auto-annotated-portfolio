@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: FATMA AK KARAHAN'ı ÇOK SEviyorum
+    title: ''
     subtitle: 'Yazar: Mamo'
     styles:
       self:
