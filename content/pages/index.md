@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: ''
-    subtitle: 'Yazar: Mamo'
+    subtitle: ''
     styles:
       self:
         height: auto
