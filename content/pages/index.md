@@ -33,6 +33,8 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
+    text: |
+      ***UPCOMING GAMES***
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
