@@ -38,6 +38,14 @@
                 "label": "youtube",
                 "url": "https://partnerincrimestudios.itch.io/",
                 "icon": "youtube"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/",
+                "icon": "instagram",
+                "elementId": ""
             }
         ],
         "styles": {
